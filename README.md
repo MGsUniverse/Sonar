@@ -30,6 +30,7 @@ There are 2 files in the repository:
 + sonar.ino: The arduino side that handles the actual sonar gathering data and moving the servo.
 
 Note: The programs talk to each other using serial.
-
+## Video
+https://youtu.be/bVh2sMqk-7A
 ## Credits
 By Matteo Giovanni
